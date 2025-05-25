@@ -2,6 +2,8 @@
 
 Particle effects made in Python using Pygame.
 
+![Preview](preview.gif)
+
 ## How to Use
 
 - Run the script.
