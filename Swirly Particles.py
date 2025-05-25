@@ -52,7 +52,7 @@ class Particle(pygame.sprite.Sprite):
 
 grp = pygame.sprite.Group()
 while True:
-    # screen.fill('black')
+    screen.fill('black')
     vector = vec(pygame.mouse.get_pos() - vec(0, 300))
 
     for event in pygame.event.get():
